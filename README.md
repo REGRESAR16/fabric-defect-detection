@@ -1,5 +1,5 @@
 # Fabric Defect Detection Using Deep Learning
-
+**Live demo:** https://fabric-defect-detection-7wcedp6ue77xbssadeacpt.streamlit.app
 B.Tech (CSE – AI & ML) major project, Pimpri Chinchwad University, Pune.
 
 Two pre-trained YOLOv8 models (YOLOv8n and YOLOv8s) were fine-tuned to detect ten fabric defect classes:
